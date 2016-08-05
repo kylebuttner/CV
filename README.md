@@ -7,9 +7,7 @@
 [LinkedIn](https://uk.linkedin.com/in/kylebuttner) | [Twitter](https://twitter.com/kylebuttner) | [Codewars](http://www.codewars.com/users/kylebuttner)
 
 ## About me
-I'm an American developer based in London at the moment with a passion for writing clean, well-tested, object-oriented code. For the past two years, I've been working and building things for startups in San Francisco and Washington, DC, and at the beginning of the year I moved to London to formalize my otherwise self-taught coding education at Makers Academy.
-
-At Makers, beyond building on my previous knowledge of core programming languages and frameworks, I also picked up some amazing software craftsmanship skills and am well-versed in TDD, BDD, OOP, XP, pair-programming, etc. I'm excited now to transfer these skills to a new team and build some great products with some great people.
+I'm an American developer based in Europe with a passion for writing clean, well-tested, object-oriented code. For the past two years, I've been working and building things for startups in San Francisco and Washington, DC, and at the beginning of the year I moved to London to formalize my otherwise self-taught coding education at Makers Academy. Now I work as a software developer at Techstars in Berlin.
 
 ## Skills
 ### Software craftsmanship
@@ -30,6 +28,14 @@ Project | Description | Technologies | Testing
 [MakersBnb](https://github.com/lorenzoturrino/makers_bnb) | A simple web app that allows users to list and book spaces | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
 
 ## Experience
+
+#### [Techstars](http://www.techstars.com/) — June 2016 to present — Berlin
+*Software Developer*
+
+* Developer-in-residence for 10 startups participating in the Techstars 2016 Berlin accelerator programme
+* Worked directly with CTOs and their development teams to provide a wide range of programming support for products at all stages of the development lifecycle
+* Built and rebuilt several test-driven client-facing apps in React Rebuilt the front-end of an internal Symfony app in Angular
+* Built scrapers to compile data for business development teams to use
 
 #### [FiscalNote](https://www.fiscalnote.com/) — June 2015 to Feb 2016 — Washington, DC
 *Associate*
